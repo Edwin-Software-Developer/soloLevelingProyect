@@ -1,0 +1,17 @@
+:root {
+  --ion-color-primary: #55d9ff;
+  --ion-color-primary-rgb: 85, 217, 255;
+  --ion-color-primary-contrast: #061018;
+  --ion-color-primary-contrast-rgb: 6, 16, 24;
+  --ion-color-primary-shade: #4bc0e0;
+  --ion-color-primary-tint: #66deff;
+  --ion-background-color: #080a10;
+  --ion-background-color-rgb: 8, 10, 16;
+  --ion-text-color: #edf5ff;
+  --ion-text-color-rgb: 237, 245, 255;
+  --ion-toolbar-background: rgba(8, 10, 16, .92);
+  --ion-tab-bar-background: rgba(9, 12, 20, .97);
+  --ion-tab-bar-color: #7c899b;
+  --ion-tab-bar-color-selected: #55d9ff;
+  --ion-font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
