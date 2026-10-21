@@ -1,0 +1,13 @@
+{
+  "name": "solo-leveling-deliverable",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-delivery.js"
+  },
+  "dependencies": {
+    "pdfkit": "^0.15.0",
+    "qrcode": "^1.5.4"
+  }
+}
